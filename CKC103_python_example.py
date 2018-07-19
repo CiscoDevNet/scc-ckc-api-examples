@@ -158,7 +158,7 @@ print('User Capabilities:', results, '\n')
 
 ############################### LEARNING LAB 3 ############################
 # CKC103 - Retrieving Real Time Device Data From the CKC Platform API
-# In this example, we will exercise the CKC API: {{Platform Instance URL}}/cdp/v1/devices/lighting
+# In this example, we will exercise the CKC API: {{Platform Instance URL}}/cdp/v1/devices/
 # In the case of the Sandbox lab, this resolves to https://ckcsandbox.cisco.com/t/devnet.com/cdp/v1/devices
 # The access_token obtained as explained in Learning Lab 1 is used for authorization
 # LEARNING LAB 3 CODE BEGINS HERE
