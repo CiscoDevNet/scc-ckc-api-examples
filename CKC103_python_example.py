@@ -167,7 +167,7 @@ print('User Capabilities:', results, '\n')
 print("Learning Lab 3 Starts Here:")
 
 #This is the URL we use to get ligting data
-requestUrl = "https://ckcsandbox.cisco.com/t/devnet.com/cdp/v1/devices/lighting"
+requestUrl = "https://ckcsandbox.cisco.com/t/devnet.com/cdp/v1/devices"
 
 # create the TQL POST Body
 postData = {  
