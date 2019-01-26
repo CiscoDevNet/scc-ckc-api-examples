@@ -1,3 +1,5 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/scc-ckc-api-examples)
+
 # Cisco Kinetic for Cities API Examples
 The Smart+Connected Digital Platform is now Cisco Kinetic for Cities. It’s a new name but the same platform that delivers a set of tools and guidelines for creating a smart city framework. This repo contains short example scripts that demonstrate and explain aspects of the Cisco Kinetic for Cities APIs.
 
